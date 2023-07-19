@@ -27,9 +27,9 @@ A Java implementation of a topological sorting algorithm. It includes a class ca
 
 5\.  _Ability to create any number of nodes:_
 
-![7](https://github.com/Chady00/Java-SimGUI_Topological_Order_Graph_Generator/assets/84717550/03af89cc-7a78-4039-ba5c-ae3074a2ace8)
+![6](https://github.com/Chady00/Java-SimGUI_Topological_Order_Graph_Generator/assets/84717550/9b94c737-e563-4204-832b-944dfe3ab253)
 
 
 6\.  _Go as complex as you want!_
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/1e3b1dd50fa2db49a10171209de0066659a25e114af13e36.png)
+![7](https://github.com/Chady00/Java-SimGUI_Topological_Order_Graph_Generator/assets/84717550/03af89cc-7a78-4039-ba5c-ae3074a2ace8)
