@@ -8,23 +8,27 @@ A Java implementation of a topological sorting algorithm. It includes a class ca
 
 1.  _Traverse in topological order:_ 
 
- ![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/55e87999364ed7708201efe55346b88155eb0dd4c8e5adce.png)
+![1](https://github.com/Chady00/Java-SimGUI_Topological_Order_Graph_Generator/assets/84717550/0ea9c6ed-4953-4222-a155-870d6794dfa0)
 
  2.  _Interactive UI:_
+ 
+![2](https://github.com/Chady00/Java-SimGUI_Topological_Order_Graph_Generator/assets/84717550/20d693cb-ccbc-4234-9df7-c410822ae4b4)
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/df36435146a3d2f11d20a761865a5fa4ab77b4733af29a98.png)
 
 3\.  _Ability to edit, add,drag, and delete nodes and arcs:_
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/06f00f7fab2f2329133cc88298fe5efc5feb8b3a095c65dd.png)
+![3](https://github.com/Chady00/Java-SimGUI_Topological_Order_Graph_Generator/assets/84717550/d1fbf5b4-0bf0-498b-99f8-758190b69e1c)
+
 
 4\.  _Add sustainable edges:_
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/4579ed67008d275692110ae72ce2e265fb1c0009416db14a.png)
+![4](https://github.com/Chady00/Java-SimGUI_Topological_Order_Graph_Generator/assets/84717550/382d128f-c3b6-458d-a67c-62ba7c096a54)
+
 
 5\.  _Ability to create any number of nodes:_
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/23c524b3de61203aa376e25cb5d938a9d32e7eab457a6e68.png)
+![7](https://github.com/Chady00/Java-SimGUI_Topological_Order_Graph_Generator/assets/84717550/03af89cc-7a78-4039-ba5c-ae3074a2ace8)
+
 
 6\.  _Go as complex as you want!_
 
